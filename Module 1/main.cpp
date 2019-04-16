@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cmath>
+#include "Lesson1.h"
 
 using namespace std;
 
